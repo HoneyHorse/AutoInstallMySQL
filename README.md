@@ -1,0 +1,2 @@
+# AutoInstallMySQL
+此shell脚本可以自动安装mysql
